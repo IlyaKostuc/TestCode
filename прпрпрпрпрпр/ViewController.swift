@@ -13,6 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         self.view.backgroundColor = .red
+        f3f3f
+        reeregrgrgr
+        r3fg3gh392g4yg8y439g98y4
+        gergergergerge
+        gergergerge
+        ergergerg
+        regerg
     }
 
 
